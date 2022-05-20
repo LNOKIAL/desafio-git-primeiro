@@ -7,4 +7,4 @@ Desafio criado para o desafio de projeto
 ### Organização de estudos - Main
 
 
-#### Organização - Option
+### Organização - Option
